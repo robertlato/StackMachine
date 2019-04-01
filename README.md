@@ -2,7 +2,9 @@
 
 # Commands
 *integer* - add integer to stack
+
 *p* - list all stack elements
+
 *s* - switch two integers on top of the stack
 *x* - delete top integer
 *+* - delete two integers on top of the stack and add their sum
