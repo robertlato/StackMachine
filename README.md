@@ -8,3 +8,6 @@
 *+* - delete two integers on top of the stack and add their sum.   
 *r* - move the number from the top of the stack to the nth place counting from the top, example: 3 r.   
 *q* - quit.   
+
+# Instruction to run
+Use C++ compiler to run
